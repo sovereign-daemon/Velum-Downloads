@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial Alpha Release",
+  "pub_date": "2026-04-02T12:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "PASTE_MAC_SIG_HERE",
+      "url": "https://github.com/sovereign-daemon/Velum-Downloads/releases/download/v0.1.0/Velum_0.1.0_aarch64.dmg.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "PASTE_LINUX_SIG_HERE",
+      "url": "https://github.com/sovereign-daemon/Velum-Downloads/releases/download/v0.1.0/Velum_0.1.0_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "PASTE_WINDOWS_SIG_HERE",
+      "url": "https://github.com/sovereign-daemon/Velum-Downloads/releases/download/v0.1.0/Velum_0.1.0_x64-setup.nsis.zip"
+    }
+  }
+}
